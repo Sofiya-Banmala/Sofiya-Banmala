@@ -26,11 +26,6 @@
   </a>
 </p>
 
-## 📂 Featured Projects
-- 🏆 **[Wine Quality Analysis](https://github.com/sofiya-banmala/wine-quality-analysis)** - Exploratory Data Analysis & ML Model for Wine Quality
-- 📊 **[Stay Strong Mental Health App Analysis](https://github.com/sofiya-banmala/stay-strong-app-analysis)** - Data Patterns & Insights for Mental Health
-- 🛠 **[SQL Data Cleaning](https://github.com/sofiya-banmala/sql-data-cleaning)** - SQL Queries to Clean and Structure Data
-
 ## 🛠️ Languages & Tools
 
 <p align="left">
@@ -56,12 +51,10 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiya-banmala&theme=radical" alt="GitHub Streak" />
 </p>
 
-## 📈 GitHub Activity Graph
+## GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofiya-banmala&theme=dracula" alt="GitHub Activity Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sofiya-banmala&theme=github-compact" alt="GitHub Activity Graph" />
+  </a>
 </p>
 
----
-💡 *“Data is the new oil, and I love exploring it!”* 🚀
-
-✨ *Fun Fact:* *Every dataset tells a story, you just have to find it!* 🔍📊
