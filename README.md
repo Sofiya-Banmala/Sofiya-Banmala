@@ -11,6 +11,13 @@
   </a>
 </p>
 
+## 🚀 About Me
+- 🔭 I’m currently working on **Data Analysis Projects**
+- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 👯 I’m looking to collaborate on **Data Science & AI Projects**
+- 💬 Ask me about **Python, SQL, and Data Visualization**
+- 📫 Reach me at **sofiya.banmala121@gmail.com**
+
 ## 🌍 Connect with Me
 
 <p align="left">
@@ -18,6 +25,11 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
+
+## 📂 Featured Projects
+- 🏆 **[Wine Quality Analysis](https://github.com/sofiya-banmala/wine-quality-analysis)** - Exploratory Data Analysis & ML Model for Wine Quality
+- 📊 **[Stay Strong Mental Health App Analysis](https://github.com/sofiya-banmala/stay-strong-app-analysis)** - Data Patterns & Insights for Mental Health
+- 🛠 **[SQL Data Cleaning](https://github.com/sofiya-banmala/sql-data-cleaning)** - SQL Queries to Clean and Structure Data
 
 ## 🛠️ Languages & Tools
 
@@ -44,5 +56,12 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiya-banmala&theme=radical" alt="GitHub Streak" />
 </p>
 
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sofiya-banmala&theme=dracula" alt="GitHub Activity Graph" />
+</p>
+
 ---
 💡 *“Data is the new oil, and I love exploring it!”* 🚀
+
+✨ *Fun Fact:* *Every dataset tells a story, you just have to find it!* 🔍📊
