@@ -51,10 +51,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sofiya-banmala&theme=radical" alt="GitHub Streak" />
 </p>
 
-## GitHub Activity Graph
-<p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sofiya-banmala&theme=github-compact" alt="GitHub Activity Graph" />
-  </a>
-</p>
 
