@@ -12,8 +12,7 @@
 </p>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Excel Portfolio Projects](https://github.com/Sofiya-Banmala/Excel-Portfolio-Projects)
-- 🌱 I’m currently learning **Machine Learning & Deep Learning**
+- 🔭 I’m currently working on [Excel Portfolio Projects for Data Analysis](https://github.com/Sofiya-Banmala/Excel-Portfolio-Projects)
 - 👯 I’m looking to collaborate on **Data Science & AI Projects**
 - 💬 Ask me about **Python, SQL, and Data Visualization**
 - 📫 Reach me at **sofiya.banmala121@gmail.com**
