@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Sofiya Banmala</h1>
-<h3 align="center">A Passionate Data Science Student</h3>
+<h3 align="center">A Passionate Data Science Student exploring and learning more about data world by building skills on Data Analysis, Data Science, Data Visualization and more!</h3>
 
 ## 🚀 About Me
 - 🔭 I’m currently working on [Excel Portfolio Projects for Data Analysis](https://github.com/Sofiya-Banmala/Excel-Portfolio-Projects)
