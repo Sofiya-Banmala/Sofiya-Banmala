@@ -1,16 +1,6 @@
 <h1 align="center">Hi 👋, I am Sofiya Banmala</h1>
 <h3 align="center">A Passionate Data Science Student</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sofiya-banmala&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sofiya-banmala&theme=algolia&no-bg=true&margin-w=10" alt="GitHub Trophies" />
-  </a>
-</p>
-
 ## 🚀 About Me
 - 🔭 I’m currently working on [Excel Portfolio Projects for Data Analysis](https://github.com/Sofiya-Banmala/Excel-Portfolio-Projects)
 - 👯 I’m looking to collaborate on **Data Science & AI Projects**
