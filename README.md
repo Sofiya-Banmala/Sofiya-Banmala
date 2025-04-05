@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Data Science Student exploring and learning more about data world by building skills on Data Analysis, Data Science, Data Visualization and more!</h3>
 
 ## 🚀 About Me
-- 🔭 I’m currently working on [Excel Portfolio Projects for Data Analysis](https://github.com/Sofiya-Banmala/Excel-Portfolio-Projects)
+- 🔭 I’m currently working on [Power BI Portfolio Projects](https://github.com/Sofiya-Banmala/Power-BI-Portfolio-Projects)
 - 💬 Ask me about **Python, SQL, and Data Visualization**
 - 📫 Reach me at **sofiya.banmala121@gmail.com**
 
